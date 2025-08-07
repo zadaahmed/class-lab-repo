@@ -1,6 +1,7 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: zada
+- Certification: meta Certification  front-end
+-  
 
 ## Instructions
 Please replace the placeholders with your details:
